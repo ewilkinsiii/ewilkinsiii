@@ -8,8 +8,7 @@
 
 **`Digital Craftsman (Developer/Designer/Creator)`**
 
-I'm a full-stack developer working to make websites beautiful and spread knowledge to others. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-
+I'm a full-stack developer working to make websites beautiful and spread knowledge to others through my YouTube Channel. All my coding projects are built from the ground up, from planning and designing to solving real-life problems with code. 
 ---
 
 ### 🧰 Languages and Tools
