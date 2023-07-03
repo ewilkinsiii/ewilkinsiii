@@ -60,12 +60,12 @@ I'm a full-stack developer working to make websites beautiful and spread knowled
 
 <br>
 <div width="100%" align="center">
- <a align="left" href="https://github.com/ewilkinsiii/wiki" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=wiki&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ewilkinsiii/Next.js-Developer-Portfolio" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=Next.js-Developer-Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="left" href="https://github.com/ewilkinsiii/wiki" title="Wiki"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=wiki&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ewilkinsiii/Next.js-Developer-Portfolio" title="Next.js-Developer-Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=Next.js-Developer-Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
- <a align="left" href="https://github.com/ewilkinsiii/movie_critics2" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=movie_critics2&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ewilkinsiii/3d_product" title="3D Product"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=3d_product&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="left" href="https://github.com/ewilkinsiii/movie_critics2" title="movie_critics2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=movie_critics2&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ewilkinsiii/3d_product" title="3D Product"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=3d_product&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
