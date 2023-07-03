@@ -37,7 +37,7 @@ I'm a full-stack developer working to make websites beautiful and spread knowled
 <br />
 
 #
-<img align="right" height="250" width="375" alt="" src="https://github.com/ewilkinsiii/ewilkinsiii/main/assets/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/ewilkinsiii/ewilkinsiii/blob/main/assets/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -47,6 +47,29 @@ I'm a full-stack developer working to make websites beautiful and spread knowled
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eugene-wilkins-iii-188aa521/)
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1q4UD6AtTbzDYS5WyEARwE6P8Sm9yFK1S/view?usp=sharing).
+
+#
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewilkinsiii&show_icons=true&theme=react&border_color=61dafb&hide_border=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ewilkinsiii&hide=c%23,powershell,Mathematica,Shell,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=truet)]()
+
+
+<hr>
+
+<h2 align="center"> Repositories </h2>
+
+
+<br>
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/ewilkinsiii/wiki" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=wiki&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ewilkinsiii/Next.js-Developer-Portfolio" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=Next.js-Developer-Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/ewilkinsiii/movie_critics2" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=movie_critics2&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ewilkinsiii/3d_product" title="3D Product"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ewilkinsiii&repo=3d_product&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
 <!--
 **ewilkinsiii/ewilkinsiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
