@@ -50,7 +50,7 @@ I'm a full-stack developer working to make websites beautiful and spread knowled
 
 #
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewilkinsiii&show_icons=true&theme=react&border_color=61dafb&hide_border=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewilkinsiii&show_icons=true&theme=react&border_color=61dafb&border=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ewilkinsiii&hide=c%23,powershell,Mathematica,Shell,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=truet)]()
 
 <hr>
