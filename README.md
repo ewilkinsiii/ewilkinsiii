@@ -39,10 +39,10 @@ I'm a full-stack developer working to make websites beautiful and spread knowled
 #
 <img align="right" height="250" width="375" alt="" src="https://github.com/ewilkinsiii/ewilkinsiii/blob/main/assets/coder.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Typescript, React, Next JS, <br /> TailwindCSS, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning UX/UI Design.
 - 👨🏻‍💻 &nbsp; My live sites are available on my portfolio [DarkStar UD](https://www.darkstarud.com).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eugene-wilkins-iii-188aa521/)
