@@ -69,6 +69,13 @@ I'm a full-stack developer working to make websites beautiful and spread knowled
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+---
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 <!--
 **ewilkinsiii/ewilkinsiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
